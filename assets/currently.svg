@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="254" viewBox="0 0 840 254" role="img">
+<title>What I'm on now</title>
+<style><![CDATA[
+  .display { font-family: "Segoe UI Black", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+  .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; }
+  .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+]]></style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="rgb(140,170,220)" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="840" height="254" fill="#10161D"/>
+<rect width="840" height="254" fill="url(#grid)"/>
+<rect x="24" y="22" width="101.4" height="24" rx="12" fill="#223040" stroke="#7FA2FF" stroke-opacity="0.5" stroke-width="1"/>
+<text x="36.0" y="38.0" class="mono" font-size="11" fill="#7FA2FF" text-anchor="start" letter-spacing="2" font-weight="600">CURRENTLY</text>
+<text x="24.0" y="82.0" class="display" font-size="31" fill="#E4EAF1" text-anchor="start">What I'm on now</text>
+<rect x="24.0" y="104.0" width="792.0" height="120.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="129.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">LEARNING</text>
+<text x="194.0" y="130.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
+<line x1="44" x2="796" y1="144.0" y2="144.0" stroke="#2A3644"/>
+<text x="44.0" y="169.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">NEXT PROJECT</text>
+<text x="194.0" y="170.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
+<line x1="44" x2="796" y1="184.0" y2="184.0" stroke="#2A3644"/>
+<text x="44.0" y="209.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">IN THE LAB</text>
+<text x="194.0" y="210.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
+</svg>

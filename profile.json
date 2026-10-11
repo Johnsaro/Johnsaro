@@ -1,0 +1,214 @@
+{
+  "_help": "Text for the README panels. Run `python generate.py` after editing. Text in [square brackets] shows in orange as a placeholder to fill in.",
+  "about": {
+    "eyebrow": "About",
+    "heading": "Who I am",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Hi, I'm L_404. I work in ISP technical support in the Philippines, and in my spare time I learn cybersecurity in legal labs: TryHackMe, HackTheBox, DVWA and CTFs."
+      },
+      {
+        "type": "text",
+        "text": "My goal is to build real coding fundamentals by writing C, C++, Python and scripting by hand. Strong enough to move into offensive security, with red teaming as the target. Learn the machine, then learn to break it."
+      }
+    ]
+  },
+  "journey": {
+    "eyebrow": "The journey",
+    "heading": "Three chapters",
+    "continues": true,
+    "blocks": [
+      {
+        "type": "cards",
+        "items": [
+          {
+            "label": "Chapter 1 · Oct–Dec 2024",
+            "title": "By hand",
+            "color": "#E3B24F",
+            "text": "Learned Python by writing it myself, using AI only to ask questions. Basics and small games first, then a banking system: a console app, a GUI version, and my own bug report with fixes.",
+            "link_text": "Code-Practice-and-Projects"
+          }
+        ]
+      }
+    ]
+  },
+  "journey-rest": {
+    "continued": true,
+    "blocks": [
+      {
+        "type": "cards",
+        "items": [
+          {
+            "label": "Chapter 2 · from Feb 2026",
+            "title": "Building with AI agents",
+            "color": "#93A1B1",
+            "text": "When AI agents and CLI tools arrived, I learned how to orchestrate them: planning the work, splitting it across agents, reviewing what they built and shipping it. I even built my own workspace app for it, GridSpace, where I've journaled every session since day one."
+          },
+          {
+            "label": "Chapter 3 · Oct 2026 →",
+            "title": "Back to the fundamentals",
+            "color": "#7FA2FF",
+            "text": "Building with agents is one skill. Writing code yourself is another. So I'm back to writing code by hand, and every project is reviewed and scored. My 2024 work counts as my Python baseline."
+          }
+        ]
+      },
+      {
+        "type": "steps",
+        "title": "How every project is tracked",
+        "items": [
+          [
+            "Write it",
+            "by hand, no generated code"
+          ],
+          [
+            "Submit it",
+            "for review"
+          ],
+          [
+            "Get scored",
+            "on fundamentals, size and quality"
+          ],
+          [
+            "Push it",
+            "the project lands on GitHub"
+          ],
+          [
+            "Log it",
+            "the skill gain goes on record"
+          ]
+        ]
+      }
+    ]
+  },
+  "shipped": {
+    "eyebrow": "Chapter 2 · shipped with AI agents",
+    "heading": "What I built with agents",
+    "intro": "Built by orchestrating AI agents. These don't count toward my coding %, but they built different skills:",
+    "items": [
+      {
+        "slug": "gridspace",
+        "name": "Rizen GridSpace",
+        "featured": true,
+        "status": "private",
+        "group_label": "The Rizen trio · where I grinded the most",
+        "group_color": "#E3B24F",
+        "meta": "Desktop app · Tauri + React + TypeScript · 188 commits since Mar 2026 · v2.0",
+        "text": "My own terminal workspace for running AI agents side by side: split panes, tabs that coordinate with each other, and a one-click session log that feeds my daily journal. It's the app I use every day."
+      },
+      {
+        "slug": "rizen-web",
+        "name": "Rizen Showcase",
+        "featured": true,
+        "status": "private",
+        "meta": "Website · React 19 + TypeScript + Vite · 40 commits",
+        "text": "The website for Rizen: features, progress and the vision behind it, with accounts, a dashboard and an admin console. Archived now that its backend is gone, but it's the build I pushed the hardest."
+      },
+      {
+        "slug": "rizen-app",
+        "name": "Rizen",
+        "featured": true,
+        "status": "public",
+        "repo": "Johnsaro/Rizen",
+        "meta": "Android app · Flutter · started Mar 2026",
+        "text": "A real-life RPG: your habits, quests and skills become your character, with an AI Guild Master handing out quests."
+      },
+      {
+        "slug": "pulseagent",
+        "name": "PulseAgent",
+        "status": "private",
+        "group_label": "Side builds",
+        "meta": "Windows desktop · Python + PyQt6",
+        "text": "A floating desktop mascot that nudged me to drink water, do push-ups and take breaks during long vibe-coding sessions. The good old days."
+      },
+      {
+        "slug": "phantompeel",
+        "name": "PhantomPeel",
+        "status": "public",
+        "repo": "Johnsaro/phantom",
+        "meta": "Forensics tool · Python · Windows",
+        "text": "Scans a Windows machine for traces of kernel drivers and spoofer tools in the registry and system folders."
+      },
+      {
+        "slug": "whiteboard",
+        "name": "Desktop Whiteboard",
+        "status": "local",
+        "meta": "Windows desktop · Python + PyQt6",
+        "text": "A transparent whiteboard that sits on my wallpaper with three columns (Goals, Tasks, Reminders) and saves as I type."
+      }
+    ],
+    "skills": [
+      "Writing clear instructions for AI",
+      "Building my own agents for my work",
+      "Tracking down bugs",
+      "Building fast, improving often",
+      "Reviewing AI-written code",
+      "Saving progress & rolling back",
+      "Planning how an app fits together"
+    ]
+  },
+  "cyber": {
+    "eyebrow": "Cybersecurity · offense to defense",
+    "heading": "The hacking side",
+    "accent": "#4CC28A",
+    "blocks": [
+      {"type": "text", "text": "I study offensive security, malware analysis and detection engineering. The way I learn is by building: I wrote two malware samples against virtual machines I own — a rough first one in Python, then a far more sophisticated one in C — took them apart, and wrote the detections that would catch them. The goal was never to write malware; it was to understand it well enough to defend against it."},
+      {"type": "text", "text": "Everything below was built, run and tested by me inside my own isolated lab — no real targets, no third parties. Every technique is mapped to MITRE ATT&CK. The numbers below are the real count from each sample."},
+      {"type": "subhead", "label": "By the numbers", "color": "#E3B24F", "note": "Every technique in both samples, mapped to MITRE ATT&CK — the real count from each build."},
+      {"type": "stats", "title": "Sample 1 · first build · Python — rough on purpose",
+       "items": [
+         {"num": 20, "label": "ATT&CK techniques"},
+         {"num": 6, "label": "Tactics covered"},
+         {"num": 7, "label": "Evasion techniques"}
+       ]},
+      {"type": "stats", "title": "Sample 2 · Delta · native C — single-binary RAT with full C2", "featured": true, "color": "#E3B24F",
+       "items": [
+         {"num": 39, "label": "ATT&CK techniques"},
+         {"num": 9, "label": "Tactics covered"},
+         {"num": 21, "label": "Evasion layers", "color": "#F08A4B"},
+         {"num": 6, "label": "Anti-forensics"},
+         {"num": 5, "label": "Persistence routes"},
+         {"num": 2, "label": "Credential stores"}
+       ]},
+      {"type": "subhead", "label": "The journey · three phases", "color": "#7FA2FF", "note": "From a rough first build, to a native agent, to defending my own work."},
+      {"type": "cards", "items": [
+        {"label": "Phase 1 · Python", "title": "Getting my hands dirty", "color": "#93A1B1",
+         "text": "My first builds, written to understand the basics: talking to the Windows API, how malware survives a reboot, hiding strings from static analysis, and polling a public page for commands instead of a live server. Rough on purpose — that was the point."},
+        {"label": "Phase 2 · C", "title": "Going native", "color": "#7FA2FF",
+         "text": "A bigger native Windows agent with a full command-and-control channel. This is where the real learning was: Windows internals in depth, how and why attackers get past built-in defenses (so I'd know exactly where a defender should look), and working from a beginner's crypto mistake up to a proper key-exchange handshake."},
+        {"label": "Phase 3 · Detection", "title": "Defending my own work", "color": "#4CC28A", "featured": true,
+         "text": "The turning point: I started writing detections for the malware I'd written — static signatures, behaviour rules mapped to a SIEM, and hunt scripts for the artifacts I planted. Every evasion I built, I can now name the detection that would have caught it. This is the half I care about most."}
+      ]},
+      {"type": "subhead", "label": "Framework & practice", "color": "#4CC28A"},
+      {"type": "cards", "items": [
+        {"label": "Framework", "title": "Mapped to MITRE ATT&CK", "color": "#E3B24F",
+         "text": "I document every technique I study against the MITRE ATT&CK framework. Mapping each one to an ID forced me to think in tactics (what the attacker wants) versus techniques (how they get it) — the same model a SOC analyst uses."},
+        {"label": "My own setup", "title": "Home lab & hands-on practice", "color": "#4CC28A",
+         "text": "An isolated lab I built from scratch — a Kali attacker and Windows targets on their own network — plus TryHackMe rooms, PortSwigger web-security labs, and reverse engineering in Ghidra."}
+      ]}
+    ]
+  },
+  "currently": {
+    "eyebrow": "Currently",
+    "heading": "What I'm on now",
+    "blocks": [
+      {
+        "type": "rows",
+        "items": [
+          [
+            "Learning",
+            "n/a"
+          ],
+          [
+            "Next project",
+            "n/a"
+          ],
+          [
+            "In the lab",
+            "n/a"
+          ]
+        ]
+      }
+    ]
+  }
+}

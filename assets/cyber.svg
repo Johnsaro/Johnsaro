@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="2008" viewBox="0 0 840 2008" role="img">
+<title>The hacking side</title>
+<style><![CDATA[
+  .display { font-family: "Segoe UI Black", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+  .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; }
+  .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+]]></style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="rgb(140,170,220)" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="840" height="2008" fill="#10161D"/>
+<rect width="840" height="2008" fill="url(#grid)"/>
+<rect x="24" y="22" width="316.4" height="24" rx="12" fill="#223040" stroke="#4CC28A" stroke-opacity="0.5" stroke-width="1"/>
+<text x="36.0" y="38.0" class="mono" font-size="11" fill="#4CC28A" text-anchor="start" letter-spacing="2" font-weight="600">CYBERSECURITY · OFFENSE TO DEFENSE</text>
+<text x="24.0" y="82.0" class="display" font-size="31" fill="#E4EAF1" text-anchor="start">The hacking side</text>
+<rect x="24.0" y="104.0" width="792.0" height="130.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="139.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">I study offensive security, malware analysis and detection engineering. The way I learn is by</text>
+<text x="44.0" y="163.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">building: I wrote two malware samples against virtual machines I own — a rough first one in Python,</text>
+<text x="44.0" y="187.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">then a far more sophisticated one in C — took them apart, and wrote the detections that would catch</text>
+<text x="44.0" y="211.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">them. The goal was never to write malware; it was to understand it well enough to defend against it.</text>
+<rect x="24.0" y="252.0" width="792.0" height="106.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="287.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">Everything below was built, run and tested by me inside my own isolated lab — no real targets, no</text>
+<text x="44.0" y="311.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">third parties. Every technique is mapped to MITRE ATT&amp;CK. The numbers below are the real count from</text>
+<text x="44.0" y="335.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">each sample.</text>
+<line x1="24" x2="816" y1="410.0" y2="410.0" stroke="#2A3644"/>
+<rect x="24" y="410.0" width="124.8" height="2" fill="#E3B24F"/>
+<text x="24.0" y="434.0" class="mono" font-size="12" fill="#E3B24F" text-anchor="start" letter-spacing="2" font-weight="700">BY THE NUMBERS</text>
+<text x="24.0" y="456.0" class="mono" font-size="15" fill="#B8C4D1" text-anchor="start">Every technique in both samples, mapped to MITRE ATT&amp;CK — the real count from each build.</text>
+<rect x="24.0" y="500.0" width="792.0" height="148.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="530.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="2">SAMPLE 1 · FIRST BUILD · PYTHON — ROUGH ON PURPOSE</text>
+<rect x="44.0" y="548.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="58.0" y="586.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">20</text>
+<text x="58.0" y="612.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">ATT&amp;CK techniques</text>
+<rect x="299.3" y="548.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="313.3" y="586.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">6</text>
+<text x="313.3" y="612.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Tactics covered</text>
+<rect x="554.7" y="548.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="568.7" y="586.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">7</text>
+<text x="568.7" y="612.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Evasion techniques</text>
+<rect x="24.0" y="666.0" width="792.0" height="250.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<rect x="24.0" y="666.0" width="792.0" height="250.0" rx="6" fill="none" stroke="#E3B24F" stroke-opacity="0.55" stroke-width="1"/>
+<rect x="24.0" y="672.0" width="3" height="238.0" rx="1.5" fill="#E3B24F"/>
+<text x="44.0" y="696.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="2">SAMPLE 2 · DELTA · NATIVE C — SINGLE-BINARY RAT WITH FULL C2</text>
+<rect x="44.0" y="714.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="58.0" y="752.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">39</text>
+<text x="58.0" y="778.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">ATT&amp;CK techniques</text>
+<rect x="299.3" y="714.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="313.3" y="752.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">9</text>
+<text x="313.3" y="778.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Tactics covered</text>
+<rect x="554.7" y="714.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="568.7" y="752.0" class="display" font-size="34" fill="#F08A4B" text-anchor="start">21</text>
+<text x="568.7" y="778.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Evasion layers</text>
+<rect x="44.0" y="816.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="58.0" y="854.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">6</text>
+<text x="58.0" y="880.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Anti-forensics</text>
+<rect x="299.3" y="816.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="313.3" y="854.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">5</text>
+<text x="313.3" y="880.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Persistence routes</text>
+<rect x="554.7" y="816.0" width="241.3" height="88.0" rx="5" fill="#223040" stroke="#2A3644" stroke-width="1"/>
+<text x="568.7" y="854.0" class="display" font-size="34" fill="#E3B24F" text-anchor="start">2</text>
+<text x="568.7" y="880.0" class="mono" font-size="12" fill="#B8C4D1" text-anchor="start">Credential stores</text>
+<line x1="24" x2="816" y1="968.0" y2="968.0" stroke="#2A3644"/>
+<rect x="24" y="968.0" width="223.2" height="2" fill="#7FA2FF"/>
+<text x="24.0" y="992.0" class="mono" font-size="12" fill="#7FA2FF" text-anchor="start" letter-spacing="2" font-weight="700">THE JOURNEY · THREE PHASES</text>
+<text x="24.0" y="1014.0" class="mono" font-size="15" fill="#B8C4D1" text-anchor="start">From a rough first build, to a native agent, to defending my own work.</text>
+<rect x="24.0" y="1058.0" width="792.0" height="154.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="1086.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="2">PHASE 1 · PYTHON</text>
+<text x="44.0" y="1116.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Getting my hands dirty</text>
+<text x="44.0" y="1144.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">My first builds, written to understand the basics: talking to the Windows API, how malware survives</text>
+<text x="44.0" y="1168.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">a reboot, hiding strings from static analysis, and polling a public page for commands instead of a</text>
+<text x="44.0" y="1192.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">live server. Rough on purpose — that was the point.</text>
+<rect x="24.0" y="1228.0" width="792.0" height="178.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="1256.0" class="mono" font-size="11" fill="#7FA2FF" text-anchor="start" letter-spacing="2">PHASE 2 · C</text>
+<text x="44.0" y="1286.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Going native</text>
+<text x="44.0" y="1314.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">A bigger native Windows agent with a full command-and-control channel. This is where the real</text>
+<text x="44.0" y="1338.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">learning was: Windows internals in depth, how and why attackers get past built-in defenses (so I'd</text>
+<text x="44.0" y="1362.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">know exactly where a defender should look), and working from a beginner's crypto mistake up to a</text>
+<text x="44.0" y="1386.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">proper key-exchange handshake.</text>
+<rect x="24.0" y="1422.0" width="792.0" height="154.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<rect x="24.0" y="1422.0" width="792.0" height="154.0" rx="6" fill="none" stroke="#4CC28A" stroke-opacity="0.55" stroke-width="1"/>
+<rect x="24.0" y="1428.0" width="3" height="142.0" rx="1.5" fill="#4CC28A"/>
+<text x="44.0" y="1450.0" class="mono" font-size="11" fill="#4CC28A" text-anchor="start" letter-spacing="2">PHASE 3 · DETECTION</text>
+<text x="44.0" y="1480.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Defending my own work</text>
+<text x="44.0" y="1508.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">The turning point: I started writing detections for the malware I'd written — static signatures,</text>
+<text x="44.0" y="1532.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">behaviour rules mapped to a SIEM, and hunt scripts for the artifacts I planted. Every evasion I</text>
+<text x="44.0" y="1556.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">built, I can now name the detection that would have caught it. This is the half I care about most.</text>
+<line x1="24" x2="816" y1="1628.0" y2="1628.0" stroke="#2A3644"/>
+<rect x="24" y="1628.0" width="174.0" height="2" fill="#4CC28A"/>
+<text x="24.0" y="1652.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" letter-spacing="2" font-weight="700">FRAMEWORK &amp; PRACTICE</text>
+<rect x="24.0" y="1678.0" width="792.0" height="154.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="1706.0" class="mono" font-size="11" fill="#E3B24F" text-anchor="start" letter-spacing="2">FRAMEWORK</text>
+<text x="44.0" y="1736.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Mapped to MITRE ATT&amp;CK</text>
+<text x="44.0" y="1764.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">I document every technique I study against the MITRE ATT&amp;CK framework. Mapping each one to an ID</text>
+<text x="44.0" y="1788.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">forced me to think in tactics (what the attacker wants) versus techniques (how they get it) — the</text>
+<text x="44.0" y="1812.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">same model a SOC analyst uses.</text>
+<rect x="24.0" y="1848.0" width="792.0" height="130.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="1876.0" class="mono" font-size="11" fill="#4CC28A" text-anchor="start" letter-spacing="2">MY OWN SETUP</text>
+<text x="44.0" y="1906.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Home lab &amp; hands-on practice</text>
+<text x="44.0" y="1934.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">An isolated lab I built from scratch — a Kali attacker and Windows targets on their own network —</text>
+<text x="44.0" y="1958.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">plus TryHackMe rooms, PortSwigger web-security labs, and reverse engineering in Ghidra.</text>
+</svg>

@@ -1,0 +1,113 @@
+<title>Johnsaro Profile Preview</title>
+<style>
+/* Layout: mock of a GitHub profile page — sidebar + README card; toolbar toggles data and GitHub theme */
+:root{
+  --gh-bg:#0d1117; --gh-fg:#e6edf3; --gh-muted:#8d96a0; --gh-border:#30363d; --gh-link:#4493f8; --gh-code:#161b22;
+  --bar:#161b22; --chipon:#1f6feb;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;
+  color-scheme:dark;
+}
+.light{--gh-bg:#ffffff; --gh-fg:#1f2328; --gh-muted:#59636e; --gh-border:#d1d9e0; --gh-link:#0969da; --gh-code:#f6f8fa; color-scheme:light}
+*{box-sizing:border-box}
+body{background:#0b0f14;color:#e6edf3;font:14px/1.5 var(--sans);margin:0}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:2;background:var(--bar);border-bottom:1px solid #30363d;padding:10px 16px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;color:#e6edf3}
+.bar strong{font-size:13px}
+.seg{display:inline-flex;border:1px solid #30363d;border-radius:6px;overflow:hidden}
+.seg button{font:inherit;font-size:12px;background:transparent;color:#c9d1d9;border:0;padding:5px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--chipon);color:#fff}
+.hint{font-size:12px;color:#8d96a0}
+.page{background:var(--gh-bg);color:var(--gh-fg);padding-inline:16px;padding-block:24px 64px;min-height:100vh}
+.grid{max-width:1240px;margin:0 auto;display:grid;grid-template-columns:260px minmax(0,1fr);gap:24px}
+@media (max-width:820px){.grid{grid-template-columns:1fr}}
+.side{display:flex;flex-direction:column;gap:12px}
+.avatar{width:100%;max-width:260px;aspect-ratio:1;border-radius:50%;border:1px solid var(--gh-border);background:#18212B;display:grid;place-items:center;font:800 64px "Segoe UI Black","Segoe UI",Arial,sans-serif;color:#7FA2FF}
+.side h1{margin:0;font-size:24px;font-weight:600}
+.side .login{font-size:20px;color:var(--gh-muted);font-weight:300}
+.side button{font:inherit;background:var(--gh-code);color:var(--gh-fg);border:1px solid var(--gh-border);border-radius:6px;padding:5px}
+.card{border:1px solid var(--gh-border);border-radius:6px;padding:24px;min-width:0}
+.card .path{font-size:12px;color:var(--gh-muted);margin-bottom:16px;font-family:ui-monospace,Consolas,monospace}
+.md h2{font-size:1.5em;font-weight:600;border-bottom:1px solid var(--gh-border);padding-bottom:.3em;margin:24px 0 16px}
+.md p,.md ol,.md ul,.md table{margin:0 0 16px}
+.md img{max-width:100%;display:block;margin:0 auto}
+.md a{color:var(--gh-link);text-decoration:none}
+.md table{border-collapse:collapse;display:block;overflow-x:auto}
+.md th,.md td{border:1px solid var(--gh-border);padding:6px 13px}
+.md tr:nth-child(2n){background:var(--gh-code)}
+.md details{margin-bottom:16px}
+.md summary{cursor:pointer}
+.todo{background:rgba(240,138,75,.18);border-bottom:1px dashed #F08A4B;padding:0 3px;border-radius:2px}
+:focus-visible{outline:2px solid #4493f8;outline-offset:2px}
+</style>
+
+<div class="bar">
+  <strong>Profile preview</strong>
+  <div class="seg" role="group" aria-label="Data">
+    <button id="d-sample" aria-pressed="false">Sample data</button>
+    <button id="d-real" aria-pressed="true">Your real data</button>
+  </div>
+  <div class="seg" role="group" aria-label="GitHub theme">
+    <button id="t-dark" aria-pressed="true">GitHub dark</button>
+    <button id="t-light" aria-pressed="false">GitHub light</button>
+  </div>
+  <span class="hint">Orange text = placeholders you fill in</span>
+</div>
+
+<div class="page" id="page">
+ <div class="grid">
+  <aside class="side">
+    <div class="avatar">L</div>
+    <div><h1>L_404</h1><div class="login">Johnsaro</div></div>
+    <button type="button">Edit profile</button>
+  </aside>
+
+  <main class="card">
+   <div class="path">Johnsaro / README.md</div>
+   <article class="md">
+    <p align="center"><img src="assets/header.svg" alt="L_404 — Skill Ledger since Oct 2026"></p>
+
+    <p><img src="assets/about.svg" alt="About"></p>
+    <p><a href="https://github.com/Johnsaro/Code-Practice-and-Projects"><img src="assets/journey.svg" alt="The journey, chapter 1"></a><br><img src="assets/journey-rest.svg" alt="Chapters 2 and 3"></p>
+    <p><img src="assets/shipped.svg" alt="What I built with agents"><br><img src="assets/shipped-gridspace.svg" alt="Rizen GridSpace"><br><img src="assets/shipped-rizen-web.svg" alt="Rizen Showcase"><br><a href="https://github.com/Johnsaro/Rizen"><img src="assets/shipped-rizen-app.svg" alt="Rizen"></a><br><img src="assets/shipped-pulseagent.svg" alt="PulseAgent"><br><a href="https://github.com/Johnsaro/phantom"><img src="assets/shipped-phantompeel.svg" alt="PhantomPeel"></a><br><img src="assets/shipped-whiteboard.svg" alt="Desktop Whiteboard"></p>
+
+    <p><img src="assets/cyber.svg" alt="Cybersecurity, offense to defense"></p>
+
+    <p><img class="dyn" data-name="skills.svg" src="assets/skills.svg" alt="Skill by language"></p>
+    <p><img class="dyn" data-name="growth.svg" src="assets/growth.svg" alt="How the % climbs"></p>
+    <p><img class="dyn" data-name="log.svg" src="assets/log.svg" alt="Every project, on record"></p>
+    <p align="center"><a href="#">Full project log →</a></p>
+
+    <details>
+      <summary><b>How scoring works</b></summary>
+      <br>
+      <p>Each project is reviewed and earns a skill gain for its language.</p>
+      <table>
+        <tr><th>Part</th><th>What counts</th></tr>
+        <tr><td>Fundamentals</td><td>Matters most. Using a concept for the <strong>first time</strong> earns the most.</td></tr>
+        <tr><td>Length</td><td>Adds <strong>2 pts at most</strong> — more lines alone don't help much.</td></tr>
+        <tr><td>Quality</td><td>Multiplier from <strong>×0.5</strong> (messy) to <strong>×1.2</strong> (clean).</td></tr>
+      </table>
+      <p>Limits that keep it honest:</p>
+      <ul>
+        <li><strong>Max +8%</strong> per project.</li>
+        <li><strong>Diminishing returns</strong> — gains shrink as the % gets higher.</li>
+        <li><strong>Gates at 40%, 70% and 90%</strong> — to pass one, a project has to use harder concepts.</li>
+      </ul>
+    </details>
+
+    <p><img src="assets/currently.svg" alt="Currently"></p>
+    <p align="center"><span class="todo">[your contact — e.g. email, LinkedIn, TryHackMe or HackTheBox profile]</span></p>
+   </article>
+  </main>
+ </div>
+</div>
+
+<script>
+const set=(a,b,on)=>{document.getElementById(a).setAttribute("aria-pressed",on);document.getElementById(b).setAttribute("aria-pressed",!on)};
+function data(sample){set("d-sample","d-real",sample);
+  document.querySelectorAll("img.dyn").forEach(i=>i.src="assets/"+(sample?"sample/":"")+i.dataset.name)}
+function theme(dark){set("t-dark","t-light",dark);document.getElementById("page").classList.toggle("light",!dark)}
+document.getElementById("d-sample").onclick=()=>data(true);
+document.getElementById("d-real").onclick=()=>data(false);
+document.getElementById("t-dark").onclick=()=>theme(true);
+document.getElementById("t-light").onclick=()=>theme(false);
+</script>

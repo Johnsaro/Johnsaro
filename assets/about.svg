@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img">
+<title>Who I am</title>
+<style><![CDATA[
+  .display { font-family: "Segoe UI Black", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+  .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; }
+  .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+]]></style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="rgb(140,170,220)" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="840" height="340" fill="#10161D"/>
+<rect width="840" height="340" fill="url(#grid)"/>
+<rect x="24" y="22" width="67.0" height="24" rx="12" fill="#223040" stroke="#7FA2FF" stroke-opacity="0.5" stroke-width="1"/>
+<text x="36.0" y="38.0" class="mono" font-size="11" fill="#7FA2FF" text-anchor="start" letter-spacing="2" font-weight="600">ABOUT</text>
+<text x="24.0" y="82.0" class="display" font-size="31" fill="#E4EAF1" text-anchor="start">Who I am</text>
+<rect x="24.0" y="104.0" width="792.0" height="82.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="139.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">Hi, I'm L_404. I work in ISP technical support in the Philippines, and in my spare time I learn</text>
+<text x="44.0" y="163.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">cybersecurity in legal labs: TryHackMe, HackTheBox, DVWA and CTFs.</text>
+<rect x="24.0" y="204.0" width="792.0" height="106.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
+<text x="44.0" y="239.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">My goal is to build real coding fundamentals by writing C, C++, Python and scripting by hand. Strong</text>
+<text x="44.0" y="263.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">enough to move into offensive security, with red teaming as the target. Learn the machine, then</text>
+<text x="44.0" y="287.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">learn to break it.</text>
+</svg>

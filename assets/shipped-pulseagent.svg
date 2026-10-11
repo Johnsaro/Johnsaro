@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="186" viewBox="0 0 840 186" role="img">
+<title>PulseAgent</title>
+<style><![CDATA[
+  .display { font-family: "Segoe UI Black", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+  .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; }
+  .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+]]></style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="rgb(140,170,220)" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="840" height="186" fill="#10161D"/>
+<rect width="840" height="186" fill="url(#grid)"/>
+<text x="24.0" y="22.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="2">SIDE BUILDS</text>
+<rect x="24" y="38" width="792" height="136" rx="6" fill="#18212B" stroke="#2A3644" stroke-opacity="1" stroke-width="1"/>
+<text x="44.0" y="76.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">PulseAgent</text>
+<rect x="696.0" y="61.0" width="100.0" height="20" rx="3" fill="#223040"/><text x="704.0" y="75.0" class="mono" font-size="10" fill="#93A1B1" text-anchor="start" letter-spacing="1">PRIVATE REPO</text>
+<text x="44.0" y="102.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="start">Windows desktop · Python + PyQt6</text>
+<text x="44.0" y="130.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">A floating desktop mascot that nudged me to drink water, do push-ups and take breaks during long</text>
+<text x="44.0" y="154.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">vibe-coding sessions. The good old days.</text>
+</svg>

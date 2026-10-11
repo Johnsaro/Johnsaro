@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="148" viewBox="0 0 840 148" role="img">
+<title>Desktop Whiteboard</title>
+<style><![CDATA[
+  .display { font-family: "Segoe UI Black", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+  .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace; }
+  .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+]]></style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="rgb(140,170,220)" stroke-opacity="0.05" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="840" height="148" fill="#10161D"/>
+<rect width="840" height="148" fill="url(#grid)"/>
+<rect x="24" y="0" width="792" height="136" rx="6" fill="#18212B" stroke="#2A3644" stroke-opacity="1" stroke-width="1"/>
+<text x="44.0" y="38.0" class="display" font-size="19" fill="#E4EAF1" text-anchor="start">Desktop Whiteboard</text>
+<rect x="710.0" y="23.0" width="86.0" height="20" rx="3" fill="#223040"/><text x="718.0" y="37.0" class="mono" font-size="10" fill="#93A1B1" text-anchor="start" letter-spacing="1">LOCAL ONLY</text>
+<text x="44.0" y="64.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="start">Windows desktop · Python + PyQt6</text>
+<text x="44.0" y="92.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">A transparent whiteboard that sits on my wallpaper with three columns (Goals, Tasks, Reminders) and</text>
+<text x="44.0" y="116.0" class="body" font-size="15" fill="#B8C4D1" text-anchor="start">saves as I type.</text>
+</svg>

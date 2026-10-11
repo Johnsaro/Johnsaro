@@ -1,0 +1,24 @@
+{
+  "_note": "SAMPLE DATA - not real projects",
+  "languages": {
+    "cpp": {"name": "C++", "color": "#7FA2FF"},
+    "py":  {"name": "Python", "color": "#E3B24F"}
+  },
+  "projects": [
+    {"lang": "cpp", "date": "2026-10-11", "name": "Calculator", "lines": 120, "quality": 1.0,
+     "new_fundamentals": ["Variables & types", "Conditionals", "Loops", "Functions", "Console I/O", "STL containers"],
+     "gain": 5, "total": 5, "link": "cpp/01-calculator"},
+    {"lang": "py", "date": "2026-10-14", "name": "Guessing game", "lines": 45, "quality": 1.0,
+     "new_fundamentals": ["Variables & types", "if/elif/else", "Loops", "Functions", "input/print"],
+     "gain": 3, "total": 3, "link": "py/01-guessing-game"},
+    {"lang": "cpp", "date": "2026-10-18", "name": "Grade book", "lines": 180, "quality": 0.8,
+     "new_fundamentals": ["Arrays & strings", "Scope & const", "Structs & classes", "File I/O"],
+     "gain": 4.5, "total": 9.5, "link": "cpp/02-grade-book"},
+    {"lang": "py", "date": "2026-10-21", "name": "To-do list CLI", "lines": 110, "quality": 1.0,
+     "new_fundamentals": ["Lists & dicts", "Strings & f-strings", "File I/O", "try/except"],
+     "gain": 5, "total": 8, "link": "py/02-todo-cli"},
+    {"lang": "cpp", "date": "2026-10-25", "name": "Bank account sim", "lines": 260, "quality": 1.2,
+     "new_fundamentals": ["Exceptions & validation", "Multi-file / headers"],
+     "gain": 6, "total": 15.5, "link": "cpp/03-bank-account-sim"}
+  ]
+}
