@@ -19,54 +19,46 @@
 <line x1="80" y1="352.0" x2="744" y2="352.0" stroke="#2A3644" stroke-width="1"/>
 <text x="70.0" y="356.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">0%</text>
 <line x1="80" y1="320.6" x2="744" y2="320.6" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="324.6" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">10%</text>
+<text x="70.0" y="324.6" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">5%</text>
 <line x1="80" y1="289.1" x2="744" y2="289.1" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="293.1" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">20%</text>
+<text x="70.0" y="293.1" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">10%</text>
 <line x1="80" y1="257.7" x2="744" y2="257.7" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="261.7" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">30%</text>
+<text x="70.0" y="261.7" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">15%</text>
 <line x1="80" y1="226.3" x2="744" y2="226.3" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="230.3" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">40%</text>
+<text x="70.0" y="230.3" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">20%</text>
 <line x1="80" y1="194.9" x2="744" y2="194.9" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="198.9" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">50%</text>
+<text x="70.0" y="198.9" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">25%</text>
 <line x1="80" y1="163.4" x2="744" y2="163.4" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="167.4" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">60%</text>
+<text x="70.0" y="167.4" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">30%</text>
 <line x1="80" y1="132.0" x2="744" y2="132.0" stroke="#2A3644" stroke-width="1"/>
-<text x="70.0" y="136.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">70%</text>
+<text x="70.0" y="136.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">35%</text>
 <text x="80.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Oct 18</text>
-<text x="300.6" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Jan 25</text>
-<text x="523.4" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">May 5</text>
-<text x="744.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Aug 12</text>
-<path d="M80.0 352.0 H267.2 V330.0 H298.4 V311.1 H329.6 V289.1 H360.8 V267.1 H391.9 V248.3 H438.7 V223.1 H545.7 V198.0 H625.9 V176.0 H739.5 V157.1 H744.0 V352.0 Z" fill="#98C379" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H456.6 V330.0 H485.5 V311.1 H516.7 V289.1 H674.9 V264.0 H744.0 V352.0 Z" fill="#7FA2FF" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H82.2 V326.9 H86.7 V320.6 H88.9 V315.9 H153.5 V298.6 H224.8 V273.4 H744.0 V352.0 Z" fill="#E3B24F" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H267.2 V330.0 H298.4 V311.1 H329.6 V289.1 H360.8 V267.1 H391.9 V248.3 H438.7 V223.1 H545.7 V198.0 H625.9 V176.0 H739.5 V157.1 H744.0" fill="none" stroke="#98C379" stroke-width="2.5" stroke-linejoin="round"/>
-<path d="M80.0 352.0 H456.6 V330.0 H485.5 V311.1 H516.7 V289.1 H674.9 V264.0 H744.0" fill="none" stroke="#7FA2FF" stroke-width="2.5" stroke-linejoin="round"/>
-<path d="M80.0 352.0 H82.2 V326.9 H86.7 V320.6 H88.9 V315.9 H153.5 V298.6 H224.8 V273.4 H744.0" fill="none" stroke="#E3B24F" stroke-width="2.5" stroke-linejoin="round"/>
-<circle cx="267.2" cy="330.0" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="298.4" cy="311.1" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="329.6" cy="289.1" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="360.8" cy="267.1" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="391.9" cy="248.3" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="438.7" cy="223.1" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="545.7" cy="198.0" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="625.9" cy="176.0" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="739.5" cy="157.1" r="6" fill="#98C379"/>
-<circle cx="456.6" cy="330.0" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="485.5" cy="311.1" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="516.7" cy="289.1" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="674.9" cy="264.0" r="6" fill="#7FA2FF"/>
-<circle cx="82.2" cy="326.9" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
-<circle cx="86.7" cy="320.6" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
-<circle cx="88.9" cy="315.9" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
-<circle cx="153.5" cy="298.6" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
-<circle cx="224.8" cy="273.4" r="6" fill="#E3B24F"/>
-<text x="743.5" y="145.1" class="mono" font-size="12" fill="#98C379" text-anchor="start" font-weight="700">62%</text>
-<text x="678.9" y="252.0" class="mono" font-size="12" fill="#7FA2FF" text-anchor="start" font-weight="700">28%</text>
-<text x="228.8" y="268.0" class="mono" font-size="12" fill="#E3B24F" text-anchor="start" font-weight="700">25%</text>
+<text x="301.6" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Jun 20</text>
+<text x="522.4" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Feb 19</text>
+<text x="744.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Oct 22</text>
+<path d="M80.0 352.0 H742.2 V314.3 H744.0 V352.0 Z" fill="#98C379" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H232.9 V308.0 H244.6 V270.3 H257.3 V226.3 H321.5 V176.0 H744.0 V352.0 Z" fill="#7FA2FF" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.9 V245.1 H138.8 V194.9 H744.0 V352.0 Z" fill="#E3B24F" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H742.2 V314.3 H744.0" fill="none" stroke="#98C379" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M80.0 352.0 H232.9 V308.0 H244.6 V270.3 H257.3 V226.3 H321.5 V176.0 H744.0" fill="none" stroke="#7FA2FF" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.9 V245.1 H138.8 V194.9 H744.0" fill="none" stroke="#E3B24F" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="742.2" cy="314.3" r="6" fill="#98C379"/>
+<circle cx="232.9" cy="308.0" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="244.6" cy="270.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="257.3" cy="226.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="321.5" cy="176.0" r="6" fill="#7FA2FF"/>
+<circle cx="80.9" cy="301.7" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
+<circle cx="82.7" cy="289.1" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
+<circle cx="83.6" cy="279.7" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
+<circle cx="109.9" cy="245.1" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
+<circle cx="138.8" cy="194.9" r="6" fill="#E3B24F"/>
+<text x="325.5" y="164.0" class="mono" font-size="12" fill="#7FA2FF" text-anchor="start" font-weight="700">28%</text>
+<text x="142.8" y="182.9" class="mono" font-size="12" fill="#E3B24F" text-anchor="start" font-weight="700">25%</text>
+<text x="746.2" y="302.3" class="mono" font-size="12" fill="#98C379" text-anchor="start" font-weight="700">6%</text>
 <rect x="80" y="393" width="14" height="3" rx="1.5" fill="#98C379"/>
-<text x="100.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C 62%</text>
-<rect x="160.0" y="393" width="14" height="3" rx="1.5" fill="#7FA2FF"/>
-<text x="180.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C++ 28%</text>
-<rect x="254.4" y="393" width="14" height="3" rx="1.5" fill="#E3B24F"/>
-<text x="274.4" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Python 25%</text>
+<text x="100.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C 6%</text>
+<rect x="152.8" y="393" width="14" height="3" rx="1.5" fill="#7FA2FF"/>
+<text x="172.8" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C++ 28%</text>
+<rect x="247.20000000000002" y="393" width="14" height="3" rx="1.5" fill="#E3B24F"/>
+<text x="267.2" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Python 25%</text>
 </svg>

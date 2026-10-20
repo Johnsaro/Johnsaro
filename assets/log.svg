@@ -25,125 +25,114 @@
 <text x="628.0" y="124.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1">QUALITY</text>
 <text x="694.0" y="124.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1">GAIN</text>
 <text x="754.0" y="124.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1">TOTAL</text>
-<text x="36.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Aug 10</text>
+<text x="36.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Oct 20</text>
 <circle cx="116" cy="159" r="4" fill="#98C379"/>
-<text x="126.0" y="163.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C · Delta recon + janitor</text>
-<text x="326.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">2060</text>
-<rect x="382.0" y="148.0" width="95.2" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="162.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">System recon</text>
-<rect x="483.2" y="148.0" width="108.4" height="20" rx="4" fill="#223040"/>
-<text x="491.2" y="162.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Anti-forensics</text>
-<rect x="382.0" y="174.0" width="115.0" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="188.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Service install</text>
-<text x="628.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
+<text x="126.0" y="163.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C · Number guessing game</text>
+<text x="326.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">70</text>
+<rect x="382.0" y="148.0" width="128.2" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="162.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Variables &amp; types</text>
+<rect x="382.0" y="174.0" width="95.2" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="188.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Conditionals</text>
+<rect x="483.2" y="174.0" width="49.0" height="20" rx="4" fill="#223040"/>
+<text x="491.2" y="188.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Loops</text>
+<rect x="382.0" y="200.0" width="75.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="214.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Functions</text>
+<rect x="463.4" y="200.0" width="88.6" height="20" rx="4" fill="#223040"/>
+<text x="471.4" y="214.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Console I/O</text>
+<rect x="382.0" y="226.0" width="108.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="240.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Random numbers</text>
+<rect x="382.0" y="252.0" width="141.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="266.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Sleep (Windows API)</text>
+<text x="628.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×0.9</text>
 <text x="694.0" y="163.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+6%</text>
-<text x="754.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">62%</text>
-<line x1="24" y1="206.0" x2="816" y2="206.0" stroke="#2A3644"/>
-<text x="36.0" y="233.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Jul 12</text>
-<circle cx="116" cy="229" r="4" fill="#7FA2FF"/>
-<text x="126.0" y="233.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · Win32 clipboard watc…</text>
-<text x="326.0" y="233.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">84</text>
-<rect x="382.0" y="218.0" width="101.8" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="232.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Scope &amp; const</text>
-<text x="628.0" y="233.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.2</text>
-<text x="694.0" y="233.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+8%</text>
-<text x="754.0" y="233.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">28%</text>
-<line x1="24" y1="250.0" x2="816" y2="250.0" stroke="#2A3644"/>
-<text x="36.0" y="277.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Jun 20</text>
-<circle cx="116" cy="273" r="4" fill="#98C379"/>
-<text x="126.0" y="277.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C · Delta keylogger + inje…</text>
-<text x="326.0" y="277.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">490</text>
-<rect x="382.0" y="262.0" width="101.8" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="276.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">DLL injection</text>
-<rect x="489.8" y="262.0" width="88.6" height="20" rx="4" fill="#223040"/>
-<text x="497.8" y="276.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Named pipes</text>
-<rect x="382.0" y="288.0" width="75.4" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="302.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Raw Input</text>
-<rect x="463.4" y="288.0" width="75.4" height="20" rx="4" fill="#223040"/>
-<text x="471.4" y="302.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">API hooks</text>
-<text x="628.0" y="277.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
-<text x="694.0" y="277.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+7%</text>
-<text x="754.0" y="277.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">56%</text>
-<line x1="24" y1="320.0" x2="816" y2="320.0" stroke="#2A3644"/>
-<text x="36.0" y="347.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">May 15</text>
-<circle cx="116" cy="343" r="4" fill="#98C379"/>
-<text x="126.0" y="347.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C · Delta agent — C2 core</text>
-<text x="326.0" y="347.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">3600</text>
-<rect x="382.0" y="332.0" width="62.2" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="346.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">WinHTTP</text>
-<rect x="450.2" y="332.0" width="75.4" height="20" rx="4" fill="#223040"/>
-<text x="458.2" y="346.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">C2 design</text>
-<rect x="382.0" y="358.0" width="95.2" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="372.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Thread pools</text>
-<rect x="483.2" y="358.0" width="101.8" height="20" rx="4" fill="#223040"/>
-<text x="491.2" y="372.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Timing jitter</text>
-<rect x="382.0" y="384.0" width="75.4" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="398.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Heartbeat</text>
-<text x="628.0" y="347.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
-<text x="694.0" y="347.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+8%</text>
-<text x="754.0" y="347.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">49%</text>
+<text x="754.0" y="163.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">6%</text>
+<line x1="24" y1="284.0" x2="816" y2="284.0" stroke="#2A3644"/>
+<text x="36.0" y="311.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Jul 12</text>
+<circle cx="116" cy="307" r="4" fill="#7FA2FF"/>
+<text x="126.0" y="311.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · Win32 clipboard watc…</text>
+<text x="326.0" y="311.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">84</text>
+<rect x="382.0" y="296.0" width="101.8" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="310.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Scope &amp; const</text>
+<text x="628.0" y="311.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.2</text>
+<text x="694.0" y="311.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+8%</text>
+<text x="754.0" y="311.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">28%</text>
+<line x1="24" y1="328.0" x2="816" y2="328.0" stroke="#2A3644"/>
+<text x="36.0" y="355.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">May 2</text>
+<circle cx="116" cy="351" r="4" fill="#7FA2FF"/>
+<text x="126.0" y="355.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · DLL injection in C++</text>
+<text x="326.0" y="355.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">67</text>
+<text x="382.0" y="355.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="start">—</text>
+<text x="628.0" y="355.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
+<text x="694.0" y="355.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+7%</text>
+<text x="754.0" y="355.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">20%</text>
+<line x1="24" y1="372.0" x2="816" y2="372.0" stroke="#2A3644"/>
+<text x="36.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Apr 18</text>
+<circle cx="116" cy="395" r="4" fill="#7FA2FF"/>
+<text x="126.0" y="399.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · Delta detection tool</text>
+<text x="326.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">139</text>
+<rect x="382.0" y="384.0" width="128.2" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="398.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Structs &amp; classes</text>
+<rect x="516.2" y="384.0" width="68.8" height="20" rx="4" fill="#223040"/>
+<text x="524.2" y="398.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">File I/O</text>
+<text x="628.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×0.9</text>
+<text x="694.0" y="399.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+6%</text>
+<text x="754.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">13%</text>
 <line x1="24" y1="416.0" x2="816" y2="416.0" stroke="#2A3644"/>
-<text x="36.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">May 2</text>
+<text x="36.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Apr 5</text>
 <circle cx="116" cy="439" r="4" fill="#7FA2FF"/>
-<text x="126.0" y="443.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · DLL injection in C++</text>
-<text x="326.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">67</text>
-<text x="382.0" y="443.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="start">—</text>
-<text x="628.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
+<text x="126.0" y="443.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · C++ process scanner</text>
+<text x="326.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">111</text>
+<rect x="382.0" y="428.0" width="128.2" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="442.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Variables &amp; types</text>
+<rect x="516.2" y="428.0" width="49.0" height="20" rx="4" fill="#223040"/>
+<text x="524.2" y="442.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Loops</text>
+<rect x="382.0" y="454.0" width="75.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="468.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Functions</text>
+<rect x="463.4" y="454.0" width="121.6" height="20" rx="4" fill="#223040"/>
+<text x="471.4" y="468.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Arrays &amp; strings</text>
+<rect x="382.0" y="480.0" width="88.6" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="494.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Console I/O</text>
+<rect x="476.6" y="480.0" width="108.4" height="20" rx="4" fill="#223040"/>
+<text x="484.6" y="494.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">STL containers</text>
+<rect x="382.0" y="506.0" width="154.6" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="520.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">References &amp; pointers</text>
+<text x="628.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×0.9</text>
 <text x="694.0" y="443.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+7%</text>
-<text x="754.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">20%</text>
-<line x1="24" y1="460.0" x2="816" y2="460.0" stroke="#2A3644"/>
-<text x="36.0" y="487.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Apr 18</text>
-<circle cx="116" cy="483" r="4" fill="#7FA2FF"/>
-<text x="126.0" y="487.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · Delta detection tool</text>
-<text x="326.0" y="487.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">139</text>
-<rect x="382.0" y="472.0" width="128.2" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="486.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Structs &amp; classes</text>
-<rect x="516.2" y="472.0" width="68.8" height="20" rx="4" fill="#223040"/>
-<text x="524.2" y="486.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">File I/O</text>
-<text x="628.0" y="487.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×0.9</text>
-<text x="694.0" y="487.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+6%</text>
-<text x="754.0" y="487.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">13%</text>
-<line x1="24" y1="504.0" x2="816" y2="504.0" stroke="#2A3644"/>
-<text x="36.0" y="531.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Apr 5</text>
-<circle cx="116" cy="527" r="4" fill="#7FA2FF"/>
-<text x="126.0" y="531.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C++ · C++ process scanner</text>
-<text x="326.0" y="531.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">111</text>
-<rect x="382.0" y="516.0" width="128.2" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="530.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Variables &amp; types</text>
-<rect x="516.2" y="516.0" width="49.0" height="20" rx="4" fill="#223040"/>
-<text x="524.2" y="530.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Loops</text>
-<rect x="382.0" y="542.0" width="75.4" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="556.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Functions</text>
-<rect x="463.4" y="542.0" width="121.6" height="20" rx="4" fill="#223040"/>
-<text x="471.4" y="556.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Arrays &amp; strings</text>
-<rect x="382.0" y="568.0" width="88.6" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="582.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Console I/O</text>
-<rect x="476.6" y="568.0" width="108.4" height="20" rx="4" fill="#223040"/>
-<text x="484.6" y="582.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">STL containers</text>
-<rect x="382.0" y="594.0" width="154.6" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="608.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">References &amp; pointers</text>
-<text x="628.0" y="531.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×0.9</text>
-<text x="694.0" y="531.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+7%</text>
-<text x="754.0" y="531.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">7%</text>
-<line x1="24" y1="626.0" x2="816" y2="626.0" stroke="#2A3644"/>
-<text x="36.0" y="653.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Mar 28</text>
-<circle cx="116" cy="649" r="4" fill="#98C379"/>
-<text x="126.0" y="653.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">C · Clipboard stealer (pur…</text>
-<text x="326.0" y="653.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">517</text>
-<rect x="382.0" y="638.0" width="115.0" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="652.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Multi-threading</text>
-<rect x="382.0" y="664.0" width="115.0" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="678.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Heap management</text>
-<rect x="503.0" y="664.0" width="95.2" height="20" rx="4" fill="#223040"/>
-<text x="511.0" y="678.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">DPAPI crypto</text>
-<rect x="382.0" y="690.0" width="88.6" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="704.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">DNS queries</text>
-<rect x="476.6" y="690.0" width="115.0" height="20" rx="4" fill="#223040"/>
-<text x="484.6" y="704.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">XOR obfuscation</text>
-<rect x="382.0" y="716.0" width="49.0" height="20" rx="4" fill="#223040"/>
-<text x="390.0" y="730.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Mutex</text>
-<text x="628.0" y="653.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.1</text>
-<text x="694.0" y="653.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+8%</text>
-<text x="754.0" y="653.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">41%</text>
-<text x="816.0" y="770.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="end">+10 more in LOG.md</text>
+<text x="754.0" y="443.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">7%</text>
+<line x1="24" y1="538.0" x2="816" y2="538.0" stroke="#2A3644"/>
+<text x="36.0" y="565.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Dec 22</text>
+<circle cx="116" cy="561" r="4" fill="#E3B24F"/>
+<text x="126.0" y="565.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">Python · Banking system GU…</text>
+<text x="326.0" y="565.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">633</text>
+<rect x="382.0" y="550.0" width="141.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="564.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">pip + 3rd-party lib</text>
+<rect x="382.0" y="576.0" width="154.6" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="590.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Inheritance &amp; dunders</text>
+<text x="628.0" y="565.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.2</text>
+<text x="694.0" y="565.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+8%</text>
+<text x="754.0" y="565.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">25%</text>
+<line x1="24" y1="608.0" x2="816" y2="608.0" stroke="#2A3644"/>
+<text x="36.0" y="635.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Nov 20</text>
+<circle cx="116" cy="631" r="4" fill="#E3B24F"/>
+<text x="126.0" y="635.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">Python · Banking system (c…</text>
+<text x="326.0" y="635.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">645</text>
+<rect x="382.0" y="620.0" width="121.6" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="634.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Standard library</text>
+<rect x="382.0" y="646.0" width="128.2" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="660.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Modules &amp; imports</text>
+<rect x="382.0" y="672.0" width="108.4" height="20" rx="4" fill="#223040"/>
+<text x="390.0" y="686.0" class="mono" font-size="11" fill="#E4EAF1" text-anchor="start">Comprehensions</text>
+<text x="628.0" y="635.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
+<text x="694.0" y="635.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+5.5%</text>
+<text x="754.0" y="635.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">17%</text>
+<line x1="24" y1="704.0" x2="816" y2="704.0" stroke="#2A3644"/>
+<text x="36.0" y="731.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">Oct 22</text>
+<circle cx="116" cy="727" r="4" fill="#E3B24F"/>
+<text x="126.0" y="731.0" class="body" font-size="13" fill="#E4EAF1" text-anchor="start">Python · Pizza sim</text>
+<text x="326.0" y="731.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">57</text>
+<text x="382.0" y="731.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="start">—</text>
+<text x="628.0" y="731.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">×1.0</text>
+<text x="694.0" y="731.0" class="mono" font-size="12" fill="#4CC28A" text-anchor="start" font-weight="700">+1.5%</text>
+<text x="754.0" y="731.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start" font-weight="700">11.5%</text>
+<text x="816.0" y="770.0" class="mono" font-size="12" fill="#93A1B1" text-anchor="end">+2 more in LOG.md</text>
 </svg>

@@ -18,16 +18,16 @@
 <g transform="translate(24.0,104.0)">
 <rect x="0.0" y="0.0" width="388.0" height="236.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
 <text x="20.0" y="38.0" class="display" font-size="18" fill="#E4EAF1" text-anchor="start">C</text>
-<text x="368.0" y="52.0" class="display" font-size="40" fill="#98C379" text-anchor="end">62%</text>
+<text x="368.0" y="52.0" class="display" font-size="40" fill="#98C379" text-anchor="end">6%</text>
 <rect x="20" y="70" width="348.0" height="10" rx="5" fill="#223040"/>
-<rect x="20" y="70" width="215.8" height="10" rx="5" fill="#98C379"/>
+<rect x="20" y="70" width="20.9" height="10" rx="5" fill="#98C379"/>
 <line x1="159.2" y1="66" x2="159.2" y2="84" stroke="#93A1B1" stroke-width="2" stroke-opacity="0.55"/>
 <text x="159.2" y="98.0" class="mono" font-size="10" fill="#93A1B1" text-anchor="middle">40%</text>
 <line x1="263.6" y1="66" x2="263.6" y2="84" stroke="#93A1B1" stroke-width="2" stroke-opacity="0.55"/>
 <text x="263.6" y="98.0" class="mono" font-size="10" fill="#93A1B1" text-anchor="middle">70%</text>
 <line x1="333.2" y1="66" x2="333.2" y2="84" stroke="#93A1B1" stroke-width="2" stroke-opacity="0.55"/>
 <text x="333.2" y="98.0" class="mono" font-size="10" fill="#93A1B1" text-anchor="middle">90%</text>
-<text x="20.0" y="124.0" class="mono" font-size="13" fill="#93A1B1" text-anchor="start">9 projects</text>
+<text x="20.0" y="124.0" class="mono" font-size="13" fill="#93A1B1" text-anchor="start">1 project</text>
 </g>
 <g transform="translate(428.0,104.0)">
 <rect x="0.0" y="0.0" width="388.0" height="236.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
