@@ -23,7 +23,10 @@
 
     {"lang": "c", "date": "2026-10-20", "name": "Number guessing game", "lines": 70, "quality": 0.9,
      "new_fundamentals": ["Variables & types", "Conditionals", "Loops", "Functions", "Console I/O", "Random numbers", "Sleep (Windows API)"],
-     "gain": 6, "total": 6, "link": ""},
+     "gain": 6, "total": 6, "link": "https://github.com/Johnsaro/C-projects"},
+    {"lang": "c", "date": "2026-10-21", "name": "Number guessing game (hints + retries)", "lines": 90, "quality": 0.6,
+     "new_fundamentals": ["While loops", "Loop control (break)", "Counters & state"],
+     "gain": 5, "total": 11, "link": "https://github.com/Johnsaro/C-projects/tree/day2"},
 
     {"lang": "cpp", "date": "2025-04-05", "name": "C++ process scanner", "lines": 111, "quality": 0.9,
      "new_fundamentals": ["Variables & types", "Loops", "Functions", "Arrays & strings", "Console I/O", "STL containers", "References & pointers"],
