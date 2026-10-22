@@ -33,31 +33,32 @@
 <line x1="80" y1="132.0" x2="744" y2="132.0" stroke="#2A3644" stroke-width="1"/>
 <text x="70.0" y="136.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="end">35%</text>
 <text x="80.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Oct 18</text>
-<text x="301.3" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Jun 20</text>
-<text x="522.7" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Feb 20</text>
-<text x="744.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Oct 23</text>
-<path d="M80.0 352.0 H741.3 V314.3 H742.2 V282.9 H744.0 V352.0 Z" fill="#98C379" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H232.7 V308.0 H244.4 V270.3 H257.1 V226.3 H321.2 V176.0 H744.0 V352.0 Z" fill="#7FA2FF" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.8 V245.1 H138.7 V194.9 H744.0 V352.0 Z" fill="#E3B24F" fill-opacity="0.08"/>
-<path d="M80.0 352.0 H741.3 V314.3 H742.2 V282.9 H744.0" fill="none" stroke="#98C379" stroke-width="2.5" stroke-linejoin="round"/>
-<path d="M80.0 352.0 H232.7 V308.0 H244.4 V270.3 H257.1 V226.3 H321.2 V176.0 H744.0" fill="none" stroke="#7FA2FF" stroke-width="2.5" stroke-linejoin="round"/>
-<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.8 V245.1 H138.7 V194.9 H744.0" fill="none" stroke="#E3B24F" stroke-width="2.5" stroke-linejoin="round"/>
-<circle cx="741.3" cy="314.3" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
-<circle cx="742.2" cy="282.9" r="6" fill="#98C379"/>
-<circle cx="232.7" cy="308.0" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="244.4" cy="270.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="257.1" cy="226.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
-<circle cx="321.2" cy="176.0" r="6" fill="#7FA2FF"/>
+<text x="301.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Jun 20</text>
+<text x="523.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Feb 21</text>
+<text x="744.0" y="374.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="middle">Oct 24</text>
+<path d="M80.0 352.0 H740.4 V314.3 H741.3 V282.9 H742.2 V245.1 H744.0 V352.0 Z" fill="#98C379" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H232.5 V308.0 H244.2 V270.3 H256.8 V226.3 H320.9 V176.0 H744.0 V352.0 Z" fill="#7FA2FF" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.8 V245.1 H138.6 V194.9 H744.0 V352.0 Z" fill="#E3B24F" fill-opacity="0.08"/>
+<path d="M80.0 352.0 H740.4 V314.3 H741.3 V282.9 H742.2 V245.1 H744.0" fill="none" stroke="#98C379" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M80.0 352.0 H232.5 V308.0 H244.2 V270.3 H256.8 V226.3 H320.9 V176.0 H744.0" fill="none" stroke="#7FA2FF" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M80.0 352.0 H80.9 V301.7 H82.7 V289.1 H83.6 V279.7 H109.8 V245.1 H138.6 V194.9 H744.0" fill="none" stroke="#E3B24F" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="740.4" cy="314.3" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
+<circle cx="741.3" cy="282.9" r="4" fill="#18212B" stroke="#98C379" stroke-width="2"/>
+<circle cx="742.2" cy="245.1" r="6" fill="#98C379"/>
+<circle cx="232.5" cy="308.0" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="244.2" cy="270.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="256.8" cy="226.3" r="4" fill="#18212B" stroke="#7FA2FF" stroke-width="2"/>
+<circle cx="320.9" cy="176.0" r="6" fill="#7FA2FF"/>
 <circle cx="80.9" cy="301.7" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
 <circle cx="82.7" cy="289.1" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
 <circle cx="83.6" cy="279.7" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
 <circle cx="109.8" cy="245.1" r="4" fill="#18212B" stroke="#E3B24F" stroke-width="2"/>
-<circle cx="138.7" cy="194.9" r="6" fill="#E3B24F"/>
-<text x="325.2" y="164.0" class="mono" font-size="12" fill="#7FA2FF" text-anchor="start" font-weight="700">28%</text>
-<text x="142.7" y="182.9" class="mono" font-size="12" fill="#E3B24F" text-anchor="start" font-weight="700">25%</text>
-<text x="746.2" y="270.9" class="mono" font-size="12" fill="#98C379" text-anchor="start" font-weight="700">11%</text>
+<circle cx="138.6" cy="194.9" r="6" fill="#E3B24F"/>
+<text x="324.9" y="164.0" class="mono" font-size="12" fill="#7FA2FF" text-anchor="start" font-weight="700">28%</text>
+<text x="142.6" y="182.9" class="mono" font-size="12" fill="#E3B24F" text-anchor="start" font-weight="700">25%</text>
+<text x="746.2" y="233.1" class="mono" font-size="12" fill="#98C379" text-anchor="start" font-weight="700">17%</text>
 <rect x="80" y="393" width="14" height="3" rx="1.5" fill="#98C379"/>
-<text x="100.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C 11%</text>
+<text x="100.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C 17%</text>
 <rect x="160.0" y="393" width="14" height="3" rx="1.5" fill="#7FA2FF"/>
 <text x="180.0" y="399.0" class="mono" font-size="12" fill="#E4EAF1" text-anchor="start">C++ 28%</text>
 <rect x="254.4" y="393" width="14" height="3" rx="1.5" fill="#E3B24F"/>

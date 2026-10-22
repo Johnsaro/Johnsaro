@@ -27,6 +27,9 @@
     {"lang": "c", "date": "2026-10-21", "name": "Number guessing game (hints + retries)", "lines": 90, "quality": 0.6,
      "new_fundamentals": ["While loops", "Loop control (break)", "Counters & state"],
      "gain": 5, "total": 11, "link": "https://github.com/Johnsaro/C-projects/tree/day2"},
+    {"lang": "c", "date": "2026-10-22", "name": "Number guessing game (scoring + play again)", "lines": 157, "quality": 0.9,
+     "new_fundamentals": ["Function parameters & return", "Range validation", "Sentinel loop (play again)"],
+     "gain": 6, "total": 17, "link": "https://github.com/Johnsaro/C-projects"},
 
     {"lang": "cpp", "date": "2025-04-05", "name": "C++ process scanner", "lines": 111, "quality": 0.9,
      "new_fundamentals": ["Variables & types", "Loops", "Functions", "Arrays & strings", "Console I/O", "STL containers", "References & pointers"],

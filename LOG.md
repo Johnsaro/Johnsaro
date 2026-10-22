@@ -6,6 +6,7 @@ Newest first. Format: `Language — Date — +gain% (total%) — new fundamental
 
 > The Jan–Aug 2025 C entries were built with AI agents, not written by hand, so they're removed from the ledger. C restarts at 0% with hand-written code.
 
+- C — Oct 22, 2026 — +6% (17%) — Function parameters & return, Range validation, Sentinel loop (play again) — Number guessing game (scoring + play again)
 - C — Oct 21, 2026 — +5% (11%) — While loops, Loop control (break), Counters & state — Number guessing game (hints + retries)
 - C — Oct 20, 2026 — +6% (6%) — Variables & types, Conditionals, Loops, Functions, Console I/O, Random numbers, Sleep — Number guessing game
 
