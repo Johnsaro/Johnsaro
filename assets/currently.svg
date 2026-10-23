@@ -17,10 +17,10 @@
 <text x="24.0" y="82.0" class="display" font-size="31" fill="#E4EAF1" text-anchor="start">What I'm on now</text>
 <rect x="24.0" y="104.0" width="792.0" height="120.0" rx="6" fill="#18212B" stroke="#2A3644" stroke-width="1"/>
 <text x="44.0" y="129.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">LEARNING</text>
-<text x="194.0" y="130.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
+<text x="194.0" y="130.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">C (writing code by hand)</text>
 <line x1="44" x2="796" y1="144.0" y2="144.0" stroke="#2A3644"/>
 <text x="44.0" y="169.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">NEXT PROJECT</text>
-<text x="194.0" y="170.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
+<text x="194.0" y="170.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">Telco Bill Calculator</text>
 <line x1="44" x2="796" y1="184.0" y2="184.0" stroke="#2A3644"/>
 <text x="44.0" y="209.0" class="mono" font-size="11" fill="#93A1B1" text-anchor="start" letter-spacing="1.5">IN THE LAB</text>
 <text x="194.0" y="210.0" class="body" font-size="15" fill="#E4EAF1" text-anchor="start">n/a</text>
