@@ -30,6 +30,9 @@
     {"lang": "c", "date": "2026-10-22", "name": "Number guessing game (scoring + play again)", "lines": 157, "quality": 0.9,
      "new_fundamentals": ["Function parameters & return", "Range validation", "Sentinel loop (play again)"],
      "gain": 6, "total": 17, "link": "https://github.com/Johnsaro/C-projects"},
+    {"lang": "c", "date": "2026-10-24", "name": "Simple calculator", "lines": 35, "quality": 0.9,
+     "new_fundamentals": ["switch/case", "Floating-point types (double)", "char input (%c)"],
+     "gain": 5, "total": 22, "link": "https://github.com/Johnsaro/C-projects/tree/main/Project2"},
 
     {"lang": "cpp", "date": "2025-04-05", "name": "C++ process scanner", "lines": 111, "quality": 0.9,
      "new_fundamentals": ["Variables & types", "Loops", "Functions", "Arrays & strings", "Console I/O", "STL containers", "References & pointers"],
